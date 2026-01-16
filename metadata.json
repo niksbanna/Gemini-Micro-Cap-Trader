@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Micro-Cap Trader",
+  "description": "An AI-powered stock trading simulator that uses Gemini 3 with Google Search grounding to discover and analyze micro-cap stocks, inspired by the ChatGPT $100 experiment.",
+  "requestFramePermissions": []
+}
